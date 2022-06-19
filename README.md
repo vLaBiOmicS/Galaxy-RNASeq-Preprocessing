@@ -1,1 +1,1 @@
-# Galaxy Project - RNASeq Preprocess
+# Galaxy Project - RNASeq Pre-processing
