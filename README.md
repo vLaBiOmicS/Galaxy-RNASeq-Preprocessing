@@ -1,1 +1,1 @@
-# Galaxy-RNASeq-Preprocess
+# Galaxy Project - RNASeq Preprocess
